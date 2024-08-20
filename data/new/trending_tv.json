@@ -1,0 +1,231 @@
+[
+    {
+        "Title": "House of the Dragon",
+        "Release Date": "2022-08-21",
+        "Language": "en",
+        "Genres": [
+            "Action & Adventure",
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "Overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "Cast": [
+            "Matt Smith",
+            "Emma D'Arcy",
+            "Olivia Cooke"
+        ],
+        "Available on": [
+            "Jio Cinema"
+        ],
+        "Platform URLs": {
+            "Jio Cinema": "https://www.themoviedb.org/tv/94997"
+        }
+    },
+    {
+        "Title": "The Umbrella Academy",
+        "Release Date": "2019-02-15",
+        "Language": "en",
+        "Genres": [
+            "Action & Adventure",
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "Overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+        "Cast": [
+            "Aidan Gallagher",
+            "Elliot Page",
+            "Tom Hopper",
+            "Emmy Raver-Lampman",
+            "Robert Sheehan"
+        ],
+        "Available on": [
+            "Netflix"
+        ],
+        "Platform URLs": {
+            "Netflix": "https://www.netflix.com/title/75006"
+        }
+    },
+    {
+        "Title": "The Boys",
+        "Release Date": "2019-07-25",
+        "Language": "en",
+        "Genres": [
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "Overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+        "Cast": [
+            "Karl Urban",
+            "Jack Quaid",
+            "Antony Starr",
+            "Erin Moriarty",
+            "Jessie T. Usher"
+        ],
+        "Available on": [
+            "Amazon Prime Video"
+        ],
+        "Platform URLs": {
+            "Amazon Prime Video": "https://www.amazon.com/dp/76479"
+        }
+    },
+    {
+        "Title": "One Piece",
+        "Release Date": "1999-10-20",
+        "Language": "ja",
+        "Genres": [
+            "Action & Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "Overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "Cast": [
+            "Mayumi Tanaka",
+            "Kazuya Nakai",
+            "Akemi Okamura",
+            "Kappei Yamaguchi",
+            "Hiroaki Hirata"
+        ],
+        "Available on": [
+            "Crunchyroll"
+        ],
+        "Platform URLs": {
+            "Crunchyroll": "https://www.themoviedb.org/tv/37854"
+        }
+    },
+    {
+        "Title": "Futurama",
+        "Release Date": "1999-03-28",
+        "Language": "en",
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Sci-Fi & Fantasy"
+        ],
+        "Overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+        "Cast": [
+            "Billy West",
+            "Katey Sagal",
+            "John DiMaggio",
+            "Tress MacNeille",
+            "Maurice LaMarche"
+        ],
+        "Available on": [
+            "Hotstar"
+        ],
+        "Platform URLs": {
+            "Hotstar": "https://www.themoviedb.org/tv/615"
+        }
+    },
+    {
+        "Title": "Game of Thrones",
+        "Release Date": "2011-04-17",
+        "Language": "en",
+        "Genres": [
+            "Action & Adventure",
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "Overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "Cast": [
+            "Peter Dinklage",
+            "Kit Harington",
+            "Nikolaj Coster-Waldau",
+            "Lena Headey",
+            "Emilia Clarke"
+        ],
+        "Available on": [
+            "Jio Cinema"
+        ],
+        "Platform URLs": {
+            "Jio Cinema": "https://www.themoviedb.org/tv/1399"
+        }
+    },
+    {
+        "Title": "Strange Tales Of Tang Dynasty",
+        "Release Date": "2022-09-27",
+        "Language": "zh",
+        "Genres": [
+            "Action & Adventure",
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Overview": "When the dark evil immortal descends from the heaven, and the mysterious underground ghost palace was revealed, a strange herb named the Black Tea suddenly took Chang'an City by storm. However, no one knows whether it is a healthy medicine or one that could harm people. Cases of missing brides in Chang'an City began occurring one after another, which seems to be inextricably linked to the black tea...  Ling Feng, general of the Jin Wu guards was tasked to investigate these cases. On his journey, he meets his strongest opponent in Su Wu Ming, the disciple of Di Ren Jie. The two of them work together to solve these mysterious cases.",
+        "Cast": [
+            "Yang Zhigang",
+            "Yang Xuwen",
+            "Gao Siwen",
+            "Chen Chuang",
+            "Sun Xuening"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "Time Bandits",
+        "Release Date": "2024-07-23",
+        "Language": "en",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Sci-Fi & Fantasy"
+        ],
+        "Overview": "Eleven-year-old Kevin's passion for history is put to the test when he joins a ragtag group of time-traveling thieves on a high-stakes and hilarious adventure.",
+        "Cast": [
+            "Lisa Kudrow",
+            "Kal-El Tuck",
+            "Tadhg Murphy",
+            "Roger Jean Nsengiyumva",
+            "Rune Temte"
+        ],
+        "Available on": [
+            "Apple TV Plus"
+        ],
+        "Platform URLs": {
+            "Apple TV Plus": "https://www.themoviedb.org/tv/114924"
+        }
+    },
+    {
+        "Title": "Batman: Caped Crusader",
+        "Release Date": "2024-08-01",
+        "Language": "en",
+        "Genres": [
+            "Action & Adventure",
+            "Animation",
+            "Crime"
+        ],
+        "Overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+        "Cast": [
+            "Hamish Linklater"
+        ],
+        "Available on": [
+            "Amazon Prime Video"
+        ],
+        "Platform URLs": {
+            "Amazon Prime Video": "https://www.amazon.com/dp/125909"
+        }
+    },
+    {
+        "Title": "Bad Monkey",
+        "Release Date": "2024-08-13",
+        "Language": "en",
+        "Genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "Overview": "A detective turned restaurant inspector in Southern Florida is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
+        "Cast": [
+            "Vince Vaughn",
+            "L. Scott Caldwell",
+            "Rob Delaney",
+            "Meredith Hagner",
+            "Natalie Martinez"
+        ],
+        "Available on": [
+            "Apple TV Plus"
+        ],
+        "Platform URLs": {
+            "Apple TV Plus": "https://www.themoviedb.org/tv/130853"
+        }
+    }
+]

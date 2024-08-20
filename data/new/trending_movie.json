@@ -1,0 +1,211 @@
+[
+    {
+        "Title": "Twisters",
+        "Release Date": "2024-07-10",
+        "Language": "en",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "Overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+        "Cast": [
+            "Daisy Edgar-Jones",
+            "Glen Powell",
+            "Anthony Ramos",
+            "Brandon Perea",
+            "Maura Tierney"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "Deadpool & Wolverine",
+        "Release Date": "2024-07-24",
+        "Language": "en",
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Science Fiction"
+        ],
+        "Overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "Cast": [
+            "Ryan Reynolds",
+            "Hugh Jackman",
+            "Emma Corrin",
+            "Matthew Macfadyen",
+            "Dafne Keen"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "Despicable Me 4",
+        "Release Date": "2024-06-20",
+        "Language": "en",
+        "Genres": [
+            "Action",
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+        "Cast": [
+            "Steve Carell",
+            "Kristen Wiig",
+            "Will Ferrell",
+            "Sofía Vergara",
+            "Miranda Cosgrove"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "Fly Me to the Moon",
+        "Release Date": "2024-07-10",
+        "Language": "en",
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Overview": "Sparks fly in all directions as marketing maven Kelly Jones, brought in to fix NASA's public image, wreaks havoc on Apollo 11 launch director Cole Davis' already difficult task of putting a man on the moon. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as backup, and the countdown truly begins.",
+        "Cast": [
+            "Scarlett Johansson",
+            "Channing Tatum",
+            "Woody Harrelson",
+            "Ray Romano",
+            "Jim Rash"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "A Quiet Place: Day One",
+        "Release Date": "2024-06-26",
+        "Language": "en",
+        "Genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "Overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+        "Cast": [
+            "Lupita Nyong'o",
+            "Joseph Quinn",
+            "Alex Wolff",
+            "Djimon Hounsou",
+            "Eliane Umuhire"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "The Instigators",
+        "Release Date": "2024-08-02",
+        "Language": "en",
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "Overview": "Rory and Cobby are unlikely partners thrown together for a heist. But when it goes awry, they team up to outrun police, backward bureaucrats, and a vengeful crime boss.",
+        "Cast": [
+            "Matt Damon",
+            "Casey Affleck",
+            "Hong Chau",
+            "Michael Stuhlbarg",
+            "Paul Walter Hauser"
+        ],
+        "Available on": [
+            "Apple TV Plus"
+        ],
+        "Platform URLs": {
+            "Apple TV Plus": "https://www.themoviedb.org/movie/1059064"
+        }
+    },
+    {
+        "Title": "Alien: Romulus",
+        "Release Date": "2024-08-13",
+        "Language": "en",
+        "Genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "Overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+        "Cast": [
+            "Cailee Spaeny",
+            "David Jonsson",
+            "Archie Renaux",
+            "Isabela Merced",
+            "Spike Fearn"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "Bad Boys: Ride or Die",
+        "Release Date": "2024-06-05",
+        "Language": "en",
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Crime",
+            "Thriller"
+        ],
+        "Overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+        "Cast": [
+            "Will Smith",
+            "Martin Lawrence",
+            "Vanessa Hudgens",
+            "Alexander Ludwig",
+            "Paola Nuñez"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "Furiosa: A Mad Max Saga",
+        "Release Date": "2024-05-22",
+        "Language": "en",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "Overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+        "Cast": [
+            "Anya Taylor-Joy",
+            "Chris Hemsworth",
+            "Tom Burke",
+            "Alyla Browne",
+            "George Shevtsov"
+        ],
+        "Available on": "No platform information available",
+        "Platform URLs": "No URL information available"
+    },
+    {
+        "Title": "Rebel Moon - Part One: A Child of Fire",
+        "Release Date": "2023-12-15",
+        "Language": "en",
+        "Genres": [
+            "Action",
+            "Drama",
+            "Science Fiction"
+        ],
+        "Overview": "When the ruthless forces of the Motherworld threaten a quiet farming village on a distant moon, a mysterious outsider becomes its best hope for survival.",
+        "Cast": [
+            "Sofia Boutella",
+            "Michiel Huisman",
+            "Ed Skrein",
+            "Djimon Hounsou",
+            "Bae Doona"
+        ],
+        "Available on": [
+            "Netflix"
+        ],
+        "Platform URLs": {
+            "Netflix": "https://www.netflix.com/title/848326"
+        }
+    }
+]
